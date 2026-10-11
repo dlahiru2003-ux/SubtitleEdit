@@ -1,0 +1,7 @@
+build/ 
+dist/ 
+__pycache__/ 
+*.spec 
+*.pyc 
+clean_sub.srt 
+*.tmp
