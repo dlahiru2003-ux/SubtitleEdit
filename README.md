@@ -12,3 +12,6 @@ An ultra-fast, hardware-safe desktop utility to mux Sinhala subtitles into video
 pip install -r requirements.txt 
 python app.py 
 ```
+
+## 🎨 Brand Guidelines
+Check out our official [Brand Book](docs/SubtitleEdit_Brand_Book.docx) for design specifications, color codes, and asset guidelines.
